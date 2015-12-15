@@ -1,5 +1,5 @@
 body {
-	width: 1020px;
+	width: 100%;
 	margin: 0 auto;
 	font-family: Arial;
 }
@@ -8,7 +8,7 @@ body {
 	font-family: Helvetica;
 	text-align: center;
 	padding: 5px;
-	margin-right: 5px;
+	margin-bottom: 5px;
 }
 
 .column1, .column2, .column3 {
@@ -37,6 +37,39 @@ body {
 
 
 
+
+
+
+
+
+
+.nav{
+    border:1px solid #ccc;
+    list-style:none;
+    margin:0;
+    margin-top: 7px;
+    padding:0;
+    text-align:center;
+    background-color: #696969;
+
+}
+.nav li{
+	font-family: helvetica;
+    display:inline;
+    margin: 0px 120px 0px 120px;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+}
+li a:link {
+    text-decoration: none;
+    color: #DCDCDC;
+}
+
+li a:hover {
+    color: #F8F8FF;
+}
 
 
 
