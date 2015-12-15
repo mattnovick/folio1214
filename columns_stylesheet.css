@@ -95,6 +95,10 @@ li a:hover {
 	height: 100%;
 }
 
+.aboutbutton .workbutton .followbutton {
+	background-color: rgba(0,0,0,0.5)
+}
+
 /*ABOUT ME ABOUT ME ABOUT ME*/
 
 
