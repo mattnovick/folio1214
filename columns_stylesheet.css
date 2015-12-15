@@ -24,12 +24,7 @@ body {
 
 .longcolumn {
 	background-color: #efefef;
-	overflow: auto; 
-	float: left;
 	
-	width: 980px;
-	
-	margin: 10px;
 	padding: 10px;
 
 	text-align: center;
@@ -41,7 +36,7 @@ body {
 
 
 
-
+/*NAV NAV NAV NAV*/
 
 .nav{
     border:1px solid #ccc;
@@ -71,18 +66,36 @@ li a:hover {
     color: #F8F8FF;
 }
 
+/*NAV NAV NAV NAV*/
 
 
 
 
 
+/*ABOUT ME ABOUT ME ABOUT ME*/
+
+.aboutcontent img {
+    width: 300px;
+    margin-left: 25%;
+    margin-top: 5%;
+    margin-bottom: 10px;
+
+}
+
+.aboutcontent p {
+	text-align: center;
+	padding: 45px;
+}
 
 
+.aboutcontent {
+	width: 50%;
+	margin-left: 25%;
+	background-color: #efefef;
+	height: 100%;
+}
 
-
-
-
-
+/*ABOUT ME ABOUT ME ABOUT ME*/
 
 
 
